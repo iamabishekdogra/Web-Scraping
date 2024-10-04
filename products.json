@@ -1,1087 +1,1192 @@
 [
     {
         "Name": "Cauliflower - Small (Phool Gobhi)",
-        "Standard Price (MRP)": "\u20b972.5",
-        "Selling Price": "\u20b962.5/pc",
-        "Final Price": "\u20b962.5\u00a0\u00a0500 g",
+        "Standard Price (MRP)": "₹59.5",
+        "Selling Price": "₹49.5/pc",
+        "Final Price": "₹49.5  1 pc",
+        "Quantity": "1 pc"
+    },
+    {
+        "Name": "Tinda (Indian Squash)",
+        "Standard Price (MRP)": "₹140.4",
+        "Selling Price": "₹120.4/kg",
+        "Final Price": "₹60.2  500 g",
         "Quantity": "500 g"
     },
     {
-        "Name": "Potato - Carisma (Aloo) - Lower Glycemix Index",
-        "Standard Price (MRP)": "\u20b964.5",
-        "Selling Price": "\u20b954.5/Pack",
-        "Final Price": "\u20b954.5\u00a0\u00a01 kg",
-        "Quantity": "1 kg"
-    },
-    {
-        "Name": "Tinda (Indian Squash) - 100% Safe",
-        "Standard Price (MRP)": "\u20b9120.4",
-        "Selling Price": "\u20b9100.4/kg",
-        "Final Price": "\u20b950.2\u00a0\u00a0500 g",
-        "Quantity": "500 g"
-    },
-    {
-        "Name": "Tomato - Desi (Tamatar)",
-        "Standard Price (MRP)": "\u20b988.4",
-        "Selling Price": "\u20b968.4/kg",
-        "Final Price": "\u20b934.2\u00a0\u00a0500 g",
-        "Quantity": "500 g"
-    },
-    {
-        "Name": "Garlic (Lehsun) - 100% Safe",
-        "Standard Price (MRP)": "\u20b9468",
-        "Selling Price": "\u20b9401.3/kg",
-        "Final Price": "\u20b960.2\u00a0\u00a0150 g",
+        "Name": "Garlic (Lehsun)",
+        "Standard Price (MRP)": "₹468",
+        "Selling Price": "₹401.3/kg",
+        "Final Price": "₹60.2  150 g",
         "Quantity": "150 g"
     },
     {
-        "Name": "Ginger - New (Adrak) - 100% Safe",
-        "Standard Price (MRP)": "\u20b9149.5",
-        "Selling Price": "\u20b9124.5/kg",
-        "Final Price": "\u20b924.9\u00a0\u00a0200 g",
+        "Name": "Garlic (Lehsun)",
+        "Standard Price (MRP)": "₹451.3",
+        "Selling Price": "₹401.3/kg",
+        "Final Price": "₹120.4  300 g",
+        "Quantity": "300 g"
+    },
+    {
+        "Name": "Ginger - New (Adrak)",
+        "Standard Price (MRP)": "₹149.5",
+        "Selling Price": "₹124.5/kg",
+        "Final Price": "₹24.9  200 g",
         "Quantity": "200 g"
     },
     {
-        "Name": "Capsicum - Green (Shimla Mirch)",
-        "Standard Price (MRP)": "\u20b9171.7",
-        "Selling Price": "\u20b9150.3/kg",
-        "Final Price": "\u20b9105.2\u00a0\u00a0700 g",
-        "Quantity": "700 g"
+        "Name": "Ginger - New (Adrak) - 100% Safe",
+        "Standard Price (MRP)": "₹194.5",
+        "Selling Price": "₹144.5/kg",
+        "Final Price": "₹28.9  200 g",
+        "Quantity": "200 g"
+    },
+    {
+        "Name": "Potato - Jumbo (Aloo) - French Fries Special",
+        "Standard Price (MRP)": "₹46.6",
+        "Selling Price": "₹41.3/kg",
+        "Final Price": "₹115.6  2.8 kg",
+        "Quantity": "2.8 kg"
+    },
+    {
+        "Name": "Beetroot (Chukandar)",
+        "Standard Price (MRP)": "₹35.2",
+        "Selling Price": "₹25.2/kg",
+        "Final Price": "₹25.2  500 g",
+        "Quantity": "500 g"
     },
     {
         "Name": "Sweet Corn Cob (Bhutta)",
-        "Standard Price (MRP)": "\u20b929.5",
-        "Selling Price": "\u20b924.5/Pack",
-        "Final Price": "\u20b924.5\u00a0\u00a01 pc",
+        "Standard Price (MRP)": "₹35.5",
+        "Selling Price": "₹25.5/Pack",
+        "Final Price": "₹25.5  1 pc",
         "Quantity": "1 pc"
     },
     {
         "Name": "Baby Potato (Aloo)",
-        "Standard Price (MRP)": "\u20b945.5",
-        "Selling Price": "\u20b935.5/kg",
-        "Final Price": "\u20b935.5\u00a0\u00a01 kg",
+        "Standard Price (MRP)": "₹45.5",
+        "Selling Price": "₹35.5/kg",
+        "Final Price": "₹35.5  1 kg",
         "Quantity": "1 kg"
     },
     {
         "Name": "Potato - Chipsona (Aloo) - Low Sugar",
-        "Standard Price (MRP)": "\u20b955.9",
-        "Selling Price": "\u20b945.9/kg",
-        "Final Price": "\u20b945.9\u00a0\u00a01 kg",
+        "Standard Price (MRP)": "₹55.9",
+        "Selling Price": "₹45.9/kg",
+        "Final Price": "₹45.9  1 kg",
         "Quantity": "1 kg"
-    },
-    {
-        "Name": "Potato - Jumbo (Aloo) - French Fries Special",
-        "Standard Price (MRP)": "\u20b946.6",
-        "Selling Price": "\u20b941.3/kg",
-        "Final Price": "\u20b9115.6\u00a0\u00a02.8 kg",
-        "Quantity": "2.8 kg"
     },
     {
         "Name": "Potato - Red (Aloo)",
-        "Standard Price (MRP)": "\u20b956.8",
-        "Selling Price": "\u20b946.8/kg",
-        "Final Price": "\u20b946.8\u00a0\u00a01 kg",
+        "Standard Price (MRP)": "₹56.8",
+        "Selling Price": "₹46.8/kg",
+        "Final Price": "₹46.8  1 kg",
         "Quantity": "1 kg"
     },
     {
         "Name": "Potato (Aloo)",
-        "Standard Price (MRP)": "\u20b952.2",
-        "Selling Price": "\u20b942.2/kg",
-        "Final Price": "\u20b942.2\u00a0\u00a01 kg",
+        "Standard Price (MRP)": "₹54.2",
+        "Selling Price": "₹44.2/kg",
+        "Final Price": "₹44.2  1 kg",
         "Quantity": "1 kg"
     },
     {
         "Name": "Potato (Aloo)",
-        "Standard Price (MRP)": "\u20b954.4",
-        "Selling Price": "\u20b944.4/kg",
-        "Final Price": "\u20b922.2\u00a0\u00a0500 g",
+        "Standard Price (MRP)": "₹56.4",
+        "Selling Price": "₹46.4/kg",
+        "Final Price": "₹23.2  500 g",
         "Quantity": "500 g"
     },
     {
         "Name": "Cabbage - Green (Large Patta Gobhi)",
-        "Standard Price (MRP)": "\u20b952.5",
-        "Selling Price": "\u20b942.5/pc",
-        "Final Price": "\u20b942.5\u00a0\u00a01 pc",
+        "Standard Price (MRP)": "₹52.5",
+        "Selling Price": "₹38.5/pc",
+        "Final Price": "₹38.5  1 pc",
         "Quantity": "1 pc"
     },
     {
-        "Name": "Bhindi (Okra) - 100% Safe",
-        "Standard Price (MRP)": "\u20b927.5",
-        "Selling Price": "\u20b922.5/Pack",
-        "Final Price": "\u20b922.5\u00a0\u00a0300 g",
-        "Quantity": "300 g"
-    },
-    {
         "Name": "Cabbage - Green (Large Patta Gobhi) (100% Safe)",
-        "Standard Price (MRP)": "\u20b956.5",
-        "Selling Price": "\u20b946.5/pc",
-        "Final Price": "\u20b946.5\u00a0\u00a01 pc",
+        "Standard Price (MRP)": "₹56.5",
+        "Selling Price": "₹42.5/pc",
+        "Final Price": "₹42.5  1 pc",
         "Quantity": "1 pc"
     },
     {
         "Name": "Bhindi (Okra)",
-        "Standard Price (MRP)": "\u20b980.4",
-        "Selling Price": "\u20b960.4/kg",
-        "Final Price": "\u20b930.2\u00a0\u00a0500 g",
+        "Standard Price (MRP)": "₹90.4",
+        "Selling Price": "₹70.4/kg",
+        "Final Price": "₹35.2  500 g",
         "Quantity": "500 g"
     },
     {
         "Name": "Mushroom - Button",
-        "Standard Price (MRP)": "\u20b960.5",
-        "Selling Price": "\u20b950.5/Pack",
-        "Final Price": "\u20b950.5\u00a0\u00a01 Pack",
+        "Standard Price (MRP)": "₹60.5",
+        "Selling Price": "₹50.5/Pack",
+        "Final Price": "₹50.5  1 Pack",
         "Quantity": "1 Pack"
     },
     {
-        "Name": "Bhindi (Okra) - 100% Safe",
-        "Standard Price (MRP)": "\u20b988.4",
-        "Selling Price": "\u20b968.4/kg",
-        "Final Price": "\u20b934.2\u00a0\u00a0500 g",
-        "Quantity": "500 g"
+        "Name": "Potato (Surya)",
+        "Standard Price (MRP)": "₹56.5",
+        "Selling Price": "₹46.5/kg",
+        "Final Price": "₹46.5  900g - 1kg",
+        "Quantity": "900g - 1kg"
     },
     {
         "Name": "Cucumber - Hybrid (Kheera)",
-        "Standard Price (MRP)": "\u20b958.1",
-        "Selling Price": "\u20b945.6/kg",
-        "Final Price": "\u20b936.5\u00a0\u00a0800 g",
+        "Standard Price (MRP)": "₹62.8",
+        "Selling Price": "₹50.2/kg",
+        "Final Price": "₹40.2  800 g",
         "Quantity": "800 g"
     },
     {
         "Name": "Cucumber - Hybrid (Kheera) - 100% Safe",
-        "Standard Price (MRP)": "\u20b963.1",
-        "Selling Price": "\u20b950.6/kg",
-        "Final Price": "\u20b940.5\u00a0\u00a0800 g",
+        "Standard Price (MRP)": "₹67.8",
+        "Selling Price": "₹55.2/kg",
+        "Final Price": "₹44.2  800 g",
         "Quantity": "800 g"
     },
     {
         "Name": "Baby Onion (Pyaaz)",
-        "Standard Price (MRP)": "\u20b991",
-        "Selling Price": "\u20b971/kg",
-        "Final Price": "\u20b935.5\u00a0\u00a0500 g",
+        "Standard Price (MRP)": "₹95",
+        "Selling Price": "₹75/kg",
+        "Final Price": "₹37.5  500 g",
+        "Quantity": "500 g"
+    },
+    {
+        "Name": "Cucumber - Seedless (Kheera)",
+        "Standard Price (MRP)": "₹81",
+        "Selling Price": "₹61/kg",
+        "Final Price": "₹30.5  500 g",
         "Quantity": "500 g"
     },
     {
         "Name": "Cucumber - Seedless (Kheera) - 100% Safe",
-        "Standard Price (MRP)": "\u20b990.4",
-        "Selling Price": "\u20b970.4/kg",
-        "Final Price": "\u20b935.2\u00a0\u00a0500 g",
+        "Standard Price (MRP)": "₹89",
+        "Selling Price": "₹69/kg",
+        "Final Price": "₹34.5  500 g",
         "Quantity": "500 g"
     },
     {
+        "Name": "Bottle Gourd - Medium (Lauki)",
+        "Standard Price (MRP)": "₹65.8",
+        "Selling Price": "₹54.7/kg",
+        "Final Price": "₹24.6  450 g",
+        "Quantity": "450 g"
+    },
+    {
         "Name": "Bottle Gourd - Medium (Lauki) - 100% Safe",
-        "Standard Price (MRP)": "\u20b961.1",
-        "Selling Price": "\u20b950/kg",
-        "Final Price": "\u20b922.5\u00a0\u00a0450 g",
+        "Standard Price (MRP)": "₹85.8",
+        "Selling Price": "₹63.6/kg",
+        "Final Price": "₹28.6  450 g",
         "Quantity": "450 g"
     },
     {
         "Name": "Broccoli",
-        "Standard Price (MRP)": "\u20b9328.8",
-        "Selling Price": "\u20b9291.2/kg",
-        "Final Price": "\u20b9116.5\u00a0\u00a0400 g",
+        "Standard Price (MRP)": "₹411.2",
+        "Selling Price": "₹401.2/kg",
+        "Final Price": "₹160.5  400 g",
         "Quantity": "400 g"
     },
     {
+        "Name": "Sponge Gourd (Tori)",
+        "Standard Price (MRP)": "₹117",
+        "Selling Price": "₹100.3/kg",
+        "Final Price": "₹60.2  600 g",
+        "Quantity": "600 g"
+    },
+    {
         "Name": "Sponge Gourd (Tori) - 100% Safe",
-        "Standard Price (MRP)": "\u20b992",
-        "Selling Price": "\u20b975.3/kg",
-        "Final Price": "\u20b945.2\u00a0\u00a0600 g",
+        "Standard Price (MRP)": "₹123.7",
+        "Selling Price": "₹107/kg",
+        "Final Price": "₹64.2  600 g",
         "Quantity": "600 g"
     },
     {
         "Name": "Bottle Gourd - Long (Lauki)",
-        "Standard Price (MRP)": "\u20b964.6",
-        "Selling Price": "\u20b950.3/kg",
-        "Final Price": "\u20b935.2\u00a0\u00a0700 g",
+        "Standard Price (MRP)": "₹64.6",
+        "Selling Price": "₹50.3/kg",
+        "Final Price": "₹35.2  700 g",
         "Quantity": "700 g"
+    },
+    {
+        "Name": "Lemon - Desi (Nimbu)",
+        "Standard Price (MRP)": "₹280.4",
+        "Selling Price": "₹240.4/kg",
+        "Final Price": "₹60.1  0.25",
+        "Quantity": "0.25"
     },
     {
         "Name": "Lemon - Desi (Nimbu) - 100% Safe",
-        "Standard Price (MRP)": "\u20b9240.8",
-        "Selling Price": "\u20b9240.4/kg",
-        "Final Price": "\u20b960.1\u00a0\u00a0250 g",
+        "Standard Price (MRP)": "₹296.4",
+        "Selling Price": "₹256.4/kg",
+        "Final Price": "₹64.1  250 g",
         "Quantity": "250 g"
     },
     {
-        "Name": "Bottle Gourd - Long (Lauki) - 100% Safe",
-        "Standard Price (MRP)": "\u20b970.3",
-        "Selling Price": "\u20b956/kg",
-        "Final Price": "\u20b939.2\u00a0\u00a0700 g",
-        "Quantity": "700 g"
+        "Name": "Brinjal - Small (Chu Chu Baingan)",
+        "Standard Price (MRP)": "₹96.2",
+        "Selling Price": "₹71.2/kg",
+        "Final Price": "₹28.5  400 g",
+        "Quantity": "400 g"
     },
     {
-        "Name": "Brinjal - Small (Chu Chu Baingan)",
-        "Standard Price (MRP)": "\u20b973.8",
-        "Selling Price": "\u20b961.2/kg",
-        "Final Price": "\u20b924.5\u00a0\u00a0400 g",
+        "Name": "Brinjal - Small (Chu Chu Baingan) - 100% Safe",
+        "Standard Price (MRP)": "₹106.2",
+        "Selling Price": "₹81.2/kg",
+        "Final Price": "₹32.5  400 g",
         "Quantity": "400 g"
     },
     {
         "Name": "Beans - Cowpea (Lobia Phali)",
-        "Standard Price (MRP)": "\u20b9135",
-        "Selling Price": "\u20b9115/kg",
-        "Final Price": "\u20b957.5\u00a0\u00a0500 g",
-        "Quantity": "500 g"
-    },
-    {
-        "Name": "Bitter Gourd (Karela) - 100% Safe",
-        "Standard Price (MRP)": "\u20b995",
-        "Selling Price": "\u20b978.3/kg",
-        "Final Price": "\u20b923.5\u00a0\u00a0300 g",
-        "Quantity": "300 g"
-    },
-    {
-        "Name": "Bitter Gourd (Karela) - 100% Safe",
-        "Standard Price (MRP)": "\u20b984.4",
-        "Selling Price": "\u20b964.4/kg",
-        "Final Price": "\u20b932.2\u00a0\u00a0500 g",
+        "Standard Price (MRP)": "₹129",
+        "Selling Price": "₹109/kg",
+        "Final Price": "₹54.5  500 g",
         "Quantity": "500 g"
     },
     {
         "Name": "Onion (Pyaaz)",
-        "Standard Price (MRP)": "\u20b974.2",
-        "Selling Price": "\u20b968.2/kg",
-        "Final Price": "\u20b968.2\u00a0\u00a01 kg",
+        "Standard Price (MRP)": "₹80.2",
+        "Selling Price": "₹70.2/kg",
+        "Final Price": "₹70.2  1 kg",
         "Quantity": "1 kg"
     },
     {
+        "Name": "Pointed Gourd (Parwal)",
+        "Standard Price (MRP)": "₹90.4",
+        "Selling Price": "₹70.4/kg",
+        "Final Price": "₹35.2  500 g",
+        "Quantity": "500 g"
+    },
+    {
+        "Name": "Pointed Gourd (Parwal) - 100% Safe",
+        "Standard Price (MRP)": "₹98.4",
+        "Selling Price": "₹78.4/kg",
+        "Final Price": "₹39.2  500 g",
+        "Quantity": "500 g"
+    },
+    {
         "Name": "Sprouts - Kabuli Chana",
-        "Standard Price (MRP)": "\u20b938.4",
-        "Selling Price": "\u20b928.4/Pack",
-        "Final Price": "\u20b928.4\u00a0\u00a0150 g",
+        "Standard Price (MRP)": "₹38.4",
+        "Selling Price": "₹28.4/Pack",
+        "Final Price": "₹28.4  150 g",
         "Quantity": "150 g"
     },
     {
         "Name": "Papaya - Medium (Raw Papita)",
-        "Standard Price (MRP)": "\u20b946.2",
-        "Selling Price": "\u20b936.2/pc",
-        "Final Price": "\u20b936.2\u00a0\u00a01 pc",
+        "Standard Price (MRP)": "₹46.2",
+        "Selling Price": "₹36.2/pc",
+        "Final Price": "₹36.2  1 pc",
         "Quantity": "1 pc"
     },
     {
         "Name": "Tomato - Hybrid (Tamatar)",
-        "Standard Price (MRP)": "\u20b984.4",
-        "Selling Price": "\u20b964.4/kg",
-        "Final Price": "\u20b932.2\u00a0\u00a0500 g",
+        "Standard Price (MRP)": "₹110.4",
+        "Selling Price": "₹95.2/kg",
+        "Final Price": "₹47.6  500 g",
         "Quantity": "500 g"
     },
     {
         "Name": "Curry Leaves (Kadi Patta)",
-        "Standard Price (MRP)": "\u20b919.5",
-        "Selling Price": "\u20b914.5/Pack",
-        "Final Price": "\u20b914.5\u00a0\u00a01 Pack",
+        "Standard Price (MRP)": "₹19.5",
+        "Selling Price": "₹14.5/Pack",
+        "Final Price": "₹14.5  1 Pack",
         "Quantity": "1 Pack"
     },
     {
-        "Name": "Pointed Gourd (Parwal)",
-        "Standard Price (MRP)": "\u20b980.4",
-        "Selling Price": "\u20b960.4/kg",
-        "Final Price": "\u20b930.2\u00a0\u00a0500 g",
-        "Quantity": "500 g"
-    },
-    {
-        "Name": "Pumpkin - Green (Medium Sitafal) - 100 Safe",
-        "Standard Price (MRP)": "\u20b944.2",
-        "Selling Price": "\u20b940.2/kg",
-        "Final Price": "\u20b980.5\u00a0\u00a02 kg",
-        "Quantity": "2 kg"
-    },
-    {
-        "Name": "Capsicum - Green (Shimla Mirch) - 100% Safe",
-        "Standard Price (MRP)": "\u20b9177.4",
-        "Selling Price": "\u20b9156/kg",
-        "Final Price": "\u20b9109.2\u00a0\u00a0700 g",
-        "Quantity": "700 g"
-    },
-    {
-        "Name": "Capsicum - Green (Shimla Mirch) - 100% Safe",
-        "Standard Price (MRP)": "\u20b9180.5",
-        "Selling Price": "\u20b9155.5/kg",
-        "Final Price": "\u20b962.2\u00a0\u00a0400 g",
-        "Quantity": "400 g"
-    },
-    {
         "Name": "Kachalu",
-        "Standard Price (MRP)": "\u20b991",
-        "Selling Price": "\u20b971/kg",
-        "Final Price": "\u20b935.5\u00a0\u00a0500 g",
+        "Standard Price (MRP)": "₹91",
+        "Selling Price": "₹71/kg",
+        "Final Price": "₹35.5  500 g",
         "Quantity": "500 g"
     },
     {
-        "Name": "Lemon - Greenish (Nimbu)",
-        "Standard Price (MRP)": "\u20b9326",
-        "Selling Price": "\u20b9241/kg",
-        "Final Price": "\u20b948.2\u00a0\u00a0200 g",
-        "Quantity": "200 g"
+        "Name": "Ridge Gourd (Tori)",
+        "Standard Price (MRP)": "₹120.4",
+        "Selling Price": "₹100.4/kg",
+        "Final Price": "₹50.2  500 g",
+        "Quantity": "500 g"
     },
     {
         "Name": "Ridge Gourd (Tori) - 100% Safe",
-        "Standard Price (MRP)": "\u20b9100.4",
-        "Selling Price": "\u20b980.4/kg",
-        "Final Price": "\u20b940.2\u00a0\u00a0500 g",
+        "Standard Price (MRP)": "₹128.4",
+        "Selling Price": "₹108.4/kg",
+        "Final Price": "₹54.2  500 g",
         "Quantity": "500 g"
+    },
+    {
+        "Name": "Arbi (Colocasia)",
+        "Standard Price (MRP)": "₹120.4",
+        "Selling Price": "₹100.4/kg",
+        "Final Price": "₹50.2  500g",
+        "Quantity": "500g"
     },
     {
         "Name": "Arbi (Colocasia) - 100% Safe",
-        "Standard Price (MRP)": "\u20b9104.4",
-        "Selling Price": "\u20b984.4/kg",
-        "Final Price": "\u20b942.2\u00a0\u00a0500 g",
+        "Standard Price (MRP)": "₹128.4",
+        "Selling Price": "₹108.4/kg",
+        "Final Price": "₹54.2  500 g",
         "Quantity": "500 g"
     },
     {
-        "Name": "Cucumber - Desi (Kheera) - 100% Safe",
-        "Standard Price (MRP)": "\u20b982.8",
-        "Selling Price": "\u20b960.2/kg",
-        "Final Price": "\u20b948.2\u00a0\u00a0800 g",
-        "Quantity": "800 g"
-    },
-    {
         "Name": "Onion (A+)",
-        "Standard Price (MRP)": "\u20b985.5",
-        "Selling Price": "\u20b975.5/Pack",
-        "Final Price": "\u20b975.5\u00a0\u00a01 kg",
+        "Standard Price (MRP)": "₹89.5",
+        "Selling Price": "₹79.5/Pack",
+        "Final Price": "₹79.5  1 kg",
         "Quantity": "1 kg"
     },
     {
         "Name": "Ratalu",
-        "Standard Price (MRP)": "\u20b986.1",
-        "Selling Price": "\u20b975/kg",
-        "Final Price": "\u20b967.5\u00a0\u00a0900 g",
+        "Standard Price (MRP)": "₹86.1",
+        "Selling Price": "₹75/kg",
+        "Final Price": "₹67.5  900 g",
         "Quantity": "900 g"
     },
     {
-        "Name": "Chilli - Hybrid (Hari Mirch) - 100% Safe",
-        "Standard Price (MRP)": "\u20b9235",
-        "Selling Price": "\u20b9185/kg",
-        "Final Price": "\u20b918.5\u00a0\u00a0100 g",
-        "Quantity": "100 g"
-    },
-    {
         "Name": "Organic Potato (Aloo)",
-        "Standard Price (MRP)": "\u20b985",
-        "Selling Price": "\u20b965/kg",
-        "Final Price": "\u20b932.5\u00a0\u00a0500 g",
+        "Standard Price (MRP)": "₹87",
+        "Selling Price": "₹67/kg",
+        "Final Price": "₹33.5  500 g",
         "Quantity": "500 g"
     },
     {
+        "Name": "Beans - French (Phali)",
+        "Standard Price (MRP)": "₹153.1",
+        "Selling Price": "₹124.6/kg",
+        "Final Price": "₹43.6  350 g",
+        "Quantity": "350 g"
+    },
+    {
         "Name": "Beans - French (Phali) - 100% Safe",
-        "Standard Price (MRP)": "\u20b9153.1",
-        "Selling Price": "\u20b9124.6/kg",
-        "Final Price": "\u20b943.6\u00a0\u00a0350 g",
+        "Standard Price (MRP)": "₹164.6",
+        "Selling Price": "₹136/kg",
+        "Final Price": "₹47.6  350 g",
         "Quantity": "350 g"
     },
     {
         "Name": "Lemon A+ (Nimbu)",
-        "Standard Price (MRP)": "\u20b9300.8",
-        "Selling Price": "\u20b9260.8/kg",
-        "Final Price": "\u20b965.2\u00a0\u00a0250 g",
+        "Standard Price (MRP)": "₹290",
+        "Selling Price": "₹250/kg",
+        "Final Price": "₹62.5  250 g",
+        "Quantity": "250 g"
+    },
+    {
+        "Name": "Baby Carrot - Orange (Gajar)",
+        "Standard Price (MRP)": "₹29.9",
+        "Selling Price": "₹24.9/Pack",
+        "Final Price": "₹24.9  250 g",
         "Quantity": "250 g"
     },
     {
         "Name": "Baby Carrot - Orange (Gajar) - 100% Safe",
-        "Standard Price (MRP)": "\u20b929.9",
-        "Selling Price": "\u20b924.9/Pack",
-        "Final Price": "\u20b924.9\u00a0\u00a0250 g",
+        "Standard Price (MRP)": "₹38.9",
+        "Selling Price": "₹28.9/Pack",
+        "Final Price": "₹28.9  250 g",
         "Quantity": "250 g"
     },
     {
-        "Name": "Capsicum - Green A+ (Shimla Mirch)",
-        "Standard Price (MRP)": "\u20b9180.4",
-        "Selling Price": "\u20b9160.4/kg",
-        "Final Price": "\u20b980.2\u00a0\u00a0500 g",
-        "Quantity": "500 g"
-    },
-    {
         "Name": "Organic Beans - French (Phali)",
-        "Standard Price (MRP)": "\u20b9221.7",
-        "Selling Price": "\u20b9188.3/kg",
-        "Final Price": "\u20b956.5\u00a0\u00a0300 g",
+        "Standard Price (MRP)": "₹221.7",
+        "Selling Price": "₹188.3/kg",
+        "Final Price": "₹56.5  300 g",
         "Quantity": "300 g"
     },
     {
-        "Name": "Brinjal - Round (Baingan) - 100% Safe",
-        "Standard Price (MRP)": "\u20b977",
-        "Selling Price": "\u20b960.3/kg",
-        "Final Price": "\u20b936.2\u00a0\u00a0600 g",
+        "Name": "Brinjal - Round (Baingan)",
+        "Standard Price (MRP)": "₹87",
+        "Selling Price": "₹70.3/kg",
+        "Final Price": "₹42.2  600 g",
         "Quantity": "600 g"
     },
     {
         "Name": "Sweet Corn Cob (Bhutta)",
-        "Standard Price (MRP)": "\u20b958.5",
-        "Selling Price": "\u20b948.5/Pack",
-        "Final Price": "\u20b948.5\u00a0\u00a02 pcs",
+        "Standard Price (MRP)": "₹59.5",
+        "Selling Price": "₹49.5/Pack",
+        "Final Price": "₹49.5  2 pcs",
         "Quantity": "2 pcs"
     },
     {
-        "Name": "Tomato - Desi (Tamatar)",
-        "Standard Price (MRP)": "\u20b976.2",
-        "Selling Price": "\u20b966.2/kg",
-        "Final Price": "\u20b966.2\u00a0\u00a01 kg",
-        "Quantity": "1 kg"
-    },
-    {
         "Name": "Caesar Salad",
-        "Standard Price (MRP)": "\u20b9141.5",
-        "Selling Price": "\u20b9126.5/Pack",
-        "Final Price": "\u20b9126.5\u00a0\u00a0180 g",
+        "Standard Price (MRP)": "₹141.5",
+        "Selling Price": "₹126.5/Pack",
+        "Final Price": "₹126.5  180 g",
         "Quantity": "180 g"
     },
     {
         "Name": "Capsicum - Red (Shimla Mirch)",
-        "Standard Price (MRP)": "\u20b9348.8",
-        "Selling Price": "\u20b9311.2/kg",
-        "Final Price": "\u20b9124.5\u00a0\u00a0400 g",
+        "Standard Price (MRP)": "₹328.8",
+        "Selling Price": "₹291.2/kg",
+        "Final Price": "₹116.5  400 g",
         "Quantity": "400 g"
     },
     {
         "Name": "Capsicum - Yellow (Shimla Mirch)",
-        "Standard Price (MRP)": "\u20b9348.8",
-        "Selling Price": "\u20b9311.2/kg",
-        "Final Price": "\u20b9124.5\u00a0\u00a0400 g",
+        "Standard Price (MRP)": "₹328.8",
+        "Selling Price": "₹291.2/kg",
+        "Final Price": "₹116.5  400 g",
         "Quantity": "400 g"
     },
     {
         "Name": "Cottage Cheese And Basil Pasta Salad",
-        "Standard Price (MRP)": "\u20b9148.5",
-        "Selling Price": "\u20b9133.5/Pack",
-        "Final Price": "\u20b9133.5\u00a0\u00a0200 g",
+        "Standard Price (MRP)": "₹148.5",
+        "Selling Price": "₹133.5/Pack",
+        "Final Price": "₹133.5  200 g",
         "Quantity": "200 g"
     },
     {
         "Name": "Exotic Fruit Nut Salad",
-        "Standard Price (MRP)": "\u20b9157.6",
-        "Selling Price": "\u20b9142.6/Pack",
-        "Final Price": "\u20b9142.6\u00a0\u00a0200 g",
+        "Standard Price (MRP)": "₹157.6",
+        "Selling Price": "₹142.6/Pack",
+        "Final Price": "₹142.6  200 g",
         "Quantity": "200 g"
     },
     {
         "Name": "Garlic - Big (Lehsun)",
-        "Standard Price (MRP)": "\u20b9510",
-        "Selling Price": "\u20b9450/kg",
-        "Final Price": "\u20b9112.5\u00a0\u00a0250 g",
+        "Standard Price (MRP)": "₹510",
+        "Selling Price": "₹450/kg",
+        "Final Price": "₹112.5  250 g",
         "Quantity": "250 g"
     },
     {
         "Name": "Nutty Cottage Cheese And Pineapple Salad",
-        "Standard Price (MRP)": "\u20b9155.5",
-        "Selling Price": "\u20b9140.5/Pack",
-        "Final Price": "\u20b9140.5\u00a0\u00a0200 g",
+        "Standard Price (MRP)": "₹155.5",
+        "Selling Price": "₹140.5/Pack",
+        "Final Price": "₹140.5  200 g",
         "Quantity": "200 g"
     },
     {
-        "Name": "Potato (Surya)",
-        "Standard Price (MRP)": "\u20b956.5",
-        "Selling Price": "\u20b946.5/kg",
-        "Final Price": "\u20b946.5\u00a0\u00a0900g - 1kg",
-        "Quantity": "900g - 1kg"
-    },
-    {
         "Name": "Potato - Neelkanth (Sugar free Aloo)",
-        "Standard Price (MRP)": "\u20b955.2",
-        "Selling Price": "\u20b945.2/kg",
-        "Final Price": "\u20b945.2\u00a0\u00a01 kg",
+        "Standard Price (MRP)": "₹55.2",
+        "Selling Price": "₹45.2/kg",
+        "Final Price": "₹45.2  1 kg",
         "Quantity": "1 kg"
     },
     {
         "Name": "Veggie Salad Mix",
-        "Standard Price (MRP)": "\u20b970.4",
-        "Selling Price": "\u20b960.4/Pack",
-        "Final Price": "\u20b960.4\u00a0\u00a0250 g",
+        "Standard Price (MRP)": "₹70.4",
+        "Selling Price": "₹60.4/Pack",
+        "Final Price": "₹60.4  250 g",
         "Quantity": "250 g"
     },
     {
         "Name": "Tomato - Hybrid (Tamatar) - 100% Safe",
-        "Standard Price (MRP)": "\u20b972.2",
-        "Selling Price": "\u20b962.2/kg",
-        "Final Price": "\u20b962.2\u00a0\u00a01 kg",
+        "Standard Price (MRP)": "₹100.2",
+        "Selling Price": "₹95.2/kg",
+        "Final Price": "₹95.2  1 kg",
+        "Quantity": "1 kg"
+    },
+    {
+        "Name": "Sweet Potato (Shakarkand)",
+        "Standard Price (MRP)": "₹150.5",
+        "Selling Price": "₹140.5/kg",
+        "Final Price": "₹140.5  1 kg",
         "Quantity": "1 kg"
     },
     {
         "Name": "Hydroponic Cucumber - Seedless (Kheera)",
-        "Standard Price (MRP)": "\u20b986.5",
-        "Selling Price": "\u20b976.5/Pack",
-        "Final Price": "\u20b976.5\u00a0\u00a0500 g",
-        "Quantity": "500 g"
+        "Standard Price (MRP)": "₹86.5",
+        "Selling Price": "₹76.5/Pack",
+        "Final Price": "₹76.5  1 Pack",
+        "Quantity": "1 Pack"
     },
     {
         "Name": "Onion (Pyaaz)",
-        "Standard Price (MRP)": "\u20b969.6",
-        "Selling Price": "\u20b966.1/kg",
-        "Final Price": "\u20b9132.2\u00a0\u00a02 kg",
+        "Standard Price (MRP)": "₹73.1",
+        "Selling Price": "₹68.1/kg",
+        "Final Price": "₹136.2  2 kg",
         "Quantity": "2 kg"
     },
     {
-        "Name": "Organic Tomato (Tamatar)",
-        "Standard Price (MRP)": "\u20b9116.7",
-        "Selling Price": "\u20b994.4/kg",
-        "Final Price": "\u20b942.5\u00a0\u00a0450 g",
-        "Quantity": "450 g"
-    },
-    {
         "Name": "Organic Onion (Pyaaz)",
-        "Standard Price (MRP)": "\u20b9123",
-        "Selling Price": "\u20b9103/kg",
-        "Final Price": "\u20b951.5\u00a0\u00a0500 g",
+        "Standard Price (MRP)": "₹127",
+        "Selling Price": "₹107/kg",
+        "Final Price": "₹53.5  500 g",
         "Quantity": "500 g"
     },
     {
         "Name": "Yam (Jimikand)",
-        "Standard Price (MRP)": "\u20b9142",
-        "Selling Price": "\u20b9125.3/kg",
-        "Final Price": "\u20b975.2\u00a0\u00a0600 g",
+        "Standard Price (MRP)": "₹142",
+        "Selling Price": "₹125.3/kg",
+        "Final Price": "₹75.2  600 g",
         "Quantity": "600 g"
     },
     {
-        "Name": "Organic Pumpkin (Sitafal)",
-        "Standard Price (MRP)": "\u20b967",
-        "Selling Price": "\u20b960.3/kg",
-        "Final Price": "\u20b990.5\u00a0\u00a01kg - 1.5kg",
-        "Quantity": "1kg - 1.5kg"
-    },
-    {
         "Name": "Sprouts - Chana",
-        "Standard Price (MRP)": "\u20b938.4",
-        "Selling Price": "\u20b928.4/Pack",
-        "Final Price": "\u20b928.4\u00a0\u00a0150 g",
+        "Standard Price (MRP)": "₹38.4",
+        "Selling Price": "₹28.4/Pack",
+        "Final Price": "₹28.4  150 g",
         "Quantity": "150 g"
     },
     {
-        "Name": "Lotus Stem (Kamal Kakri)",
-        "Standard Price (MRP)": "\u20b9190",
-        "Selling Price": "\u20b9150/kg",
-        "Final Price": "\u20b937.5\u00a0\u00a0250 g",
-        "Quantity": "250 g"
-    },
-    {
         "Name": "Onion (Pyaaz)",
-        "Standard Price (MRP)": "\u20b982.7",
-        "Selling Price": "\u20b970/kg",
-        "Final Price": "\u20b938.5\u00a0\u00a0550 g",
+        "Standard Price (MRP)": "₹90.2",
+        "Selling Price": "₹72/kg",
+        "Final Price": "₹39.6  550 g",
         "Quantity": "550 g"
     },
     {
-        "Name": "Sprouts - Kulthi",
-        "Standard Price (MRP)": "\u20b938.4",
-        "Selling Price": "\u20b928.4/Pack",
-        "Final Price": "\u20b928.4\u00a0\u00a0100 g",
-        "Quantity": "100 g"
-    },
-    {
         "Name": "Sprouts - Lobia",
-        "Standard Price (MRP)": "\u20b938.4",
-        "Selling Price": "\u20b928.4/Pack",
-        "Final Price": "\u20b928.4\u00a0\u00a0150 g",
+        "Standard Price (MRP)": "₹38.4",
+        "Selling Price": "₹28.4/Pack",
+        "Final Price": "₹28.4  150 g",
         "Quantity": "150 g"
     },
     {
         "Name": "Sprouts - Methi",
-        "Standard Price (MRP)": "\u20b939.5",
-        "Selling Price": "\u20b929.5/Pack",
-        "Final Price": "\u20b929.5\u00a0\u00a0150 g",
+        "Standard Price (MRP)": "₹39.5",
+        "Selling Price": "₹29.5/Pack",
+        "Final Price": "₹29.5  150 g",
         "Quantity": "150 g"
     },
     {
         "Name": "Sprouts - Mix",
-        "Standard Price (MRP)": "\u20b938.4",
-        "Selling Price": "\u20b928.4/Pack",
-        "Final Price": "\u20b928.4\u00a0\u00a0150 g",
+        "Standard Price (MRP)": "₹38.4",
+        "Selling Price": "₹28.4/Pack",
+        "Final Price": "₹28.4  150 g",
         "Quantity": "150 g"
     },
     {
         "Name": "Sprouts - Moong",
-        "Standard Price (MRP)": "\u20b938.4",
-        "Selling Price": "\u20b928.4/Pack",
-        "Final Price": "\u20b928.4\u00a0\u00a0150 g",
+        "Standard Price (MRP)": "₹38.4",
+        "Selling Price": "₹28.4/Pack",
+        "Final Price": "₹28.4  150 g",
         "Quantity": "150 g"
     },
     {
         "Name": "Sprouts - Wheat",
-        "Standard Price (MRP)": "\u20b938.4",
-        "Selling Price": "\u20b928.4/Pack",
-        "Final Price": "\u20b928.4\u00a0\u00a0100 g",
+        "Standard Price (MRP)": "₹38.4",
+        "Selling Price": "₹28.4/Pack",
+        "Final Price": "₹28.4  100 g",
         "Quantity": "100 g"
     },
     {
         "Name": "Garlic - Single Clove",
-        "Standard Price (MRP)": "\u20b959.5",
-        "Selling Price": "\u20b949.5/Pack",
-        "Final Price": "\u20b949.5\u00a0\u00a0100 g",
+        "Standard Price (MRP)": "₹59.5",
+        "Selling Price": "₹49.5/Pack",
+        "Final Price": "₹49.5  100 g",
         "Quantity": "100 g"
     },
     {
         "Name": "Sprouts - Moth",
-        "Standard Price (MRP)": "\u20b938.4",
-        "Selling Price": "\u20b928.4/Pack",
-        "Final Price": "\u20b928.4\u00a0\u00a0150 g",
+        "Standard Price (MRP)": "₹38.4",
+        "Selling Price": "₹28.4/Pack",
+        "Final Price": "₹28.4  150 g",
         "Quantity": "150 g"
     },
     {
         "Name": "Brinjal - Long (Purple Baingan)",
-        "Standard Price (MRP)": "\u20b980.4",
-        "Selling Price": "\u20b960.4/kg",
-        "Final Price": "\u20b930.2\u00a0\u00a0500 g",
+        "Standard Price (MRP)": "₹90.4",
+        "Selling Price": "₹70.4/kg",
+        "Final Price": "₹35.2  500 g",
         "Quantity": "500 g"
     },
     {
         "Name": "Hydroponic Leafy Salad (Seeds Dressing)",
-        "Standard Price (MRP)": "\u20b9130.4",
-        "Selling Price": "\u20b9115.4/Pack",
-        "Final Price": "\u20b9115.4\u00a0\u00a0100 g",
-        "Quantity": "100 g"
+        "Standard Price (MRP)": "₹130.4",
+        "Selling Price": "₹115.4/Pack",
+        "Final Price": "₹115.4  1 Pack",
+        "Quantity": "1 Pack"
+    },
+    {
+        "Name": "Organic Brinjal - Small (Chu Chu Baingan)",
+        "Standard Price (MRP)": "₹133.8",
+        "Selling Price": "₹108.8/kg",
+        "Final Price": "₹43.5  400 g",
+        "Quantity": "400 g"
     },
     {
         "Name": "Organic Bhindi (Okra)",
-        "Standard Price (MRP)": "\u20b9116.2",
-        "Selling Price": "\u20b991.2/kg",
-        "Final Price": "\u20b936.5\u00a0\u00a0400 g",
+        "Standard Price (MRP)": "₹131.2",
+        "Selling Price": "₹106.2/kg",
+        "Final Price": "₹42.5  400 g",
         "Quantity": "400 g"
     },
     {
         "Name": "Ameranthus Microgreens",
-        "Standard Price (MRP)": "\u20b9124.4",
-        "Selling Price": "\u20b9109.4/Pack",
-        "Final Price": "\u20b9109.4\u00a0\u00a0250 g",
+        "Standard Price (MRP)": "₹124.4",
+        "Selling Price": "₹109.4/Pack",
+        "Final Price": "₹109.4  250 g",
         "Quantity": "250 g"
-    },
-    {
-        "Name": "Hydroponic Capsicum - Green (Shimla Mirch)",
-        "Standard Price (MRP)": "\u20b9342",
-        "Selling Price": "\u20b9302/kg",
-        "Final Price": "\u20b975.5\u00a0\u00a0250 g",
-        "Quantity": "250 g"
-    },
-    {
-        "Name": "Organic Ash Gourd (Safed Petha)",
-        "Standard Price (MRP)": "\u20b9184.5",
-        "Selling Price": "\u20b9169.5/pc",
-        "Final Price": "\u20b9169.5\u00a0\u00a02.5 kg",
-        "Quantity": "2.5 kg"
     },
     {
         "Name": "Asparagus (Shatavari)",
-        "Standard Price (MRP)": "\u20b9115.5",
-        "Selling Price": "\u20b9100.5/kg",
-        "Final Price": "\u20b9100.5\u00a0\u00a0100 g",
+        "Standard Price (MRP)": "₹115.5",
+        "Selling Price": "₹100.5/kg",
+        "Final Price": "₹100.5  100 g",
         "Quantity": "100 g"
     },
     {
         "Name": "Baby Corn",
-        "Standard Price (MRP)": "\u20b958.5",
-        "Selling Price": "\u20b948.5/Pack",
-        "Final Price": "\u20b948.5\u00a0\u00a0150 g",
+        "Standard Price (MRP)": "₹58.5",
+        "Selling Price": "₹48.5/Pack",
+        "Final Price": "₹48.5  150 g",
         "Quantity": "150 g"
     },
     {
-        "Name": "Organic Beetroot (Chukandar)",
-        "Standard Price (MRP)": "\u20b989",
-        "Selling Price": "\u20b969/kg",
-        "Final Price": "\u20b934.5\u00a0\u00a0500 g",
-        "Quantity": "500 g"
-    },
-    {
-        "Name": "Organic Bitter Gourd (Karela)",
-        "Standard Price (MRP)": "\u20b9121.2",
-        "Selling Price": "\u20b996.2/kg",
-        "Final Price": "\u20b938.5\u00a0\u00a0400 g",
-        "Quantity": "400 g"
+        "Name": "Organic Bottle Gourd - Long (Lauki)",
+        "Standard Price (MRP)": "₹92.5",
+        "Selling Price": "₹75.8/kg",
+        "Final Price": "₹45.5  600 g",
+        "Quantity": "600 g"
     },
     {
         "Name": "Organic Cabbage - Green (Patta Gobhi)",
-        "Standard Price (MRP)": "\u20b9106.4",
-        "Selling Price": "\u20b992.1/kg",
-        "Final Price": "\u20b964.5\u00a0\u00a0700 g",
+        "Standard Price (MRP)": "₹97.9",
+        "Selling Price": "₹83.6/kg",
+        "Final Price": "₹58.5  700 g",
         "Quantity": "700 g"
     },
     {
-        "Name": "Garlic (Lehsun) - 100% Safe",
-        "Standard Price (MRP)": "\u20b9451.3",
-        "Selling Price": "\u20b9401.3/kg",
-        "Final Price": "\u20b9120.4\u00a0\u00a0300 g",
-        "Quantity": "300 g"
-    },
-    {
         "Name": "Kashmiri Garlic",
-        "Standard Price (MRP)": "\u20b91190",
-        "Selling Price": "\u20b9990/kg",
-        "Final Price": "\u20b949.5\u00a0\u00a050 g",
+        "Standard Price (MRP)": "₹1190",
+        "Selling Price": "₹990/kg",
+        "Final Price": "₹49.5  50 g",
         "Quantity": "50 g"
     },
     {
         "Name": "Celery",
-        "Standard Price (MRP)": "\u20b9336.7",
-        "Selling Price": "\u20b9270/kg",
-        "Final Price": "\u20b940.5\u00a0\u00a0150 g",
+        "Standard Price (MRP)": "₹316.7",
+        "Selling Price": "₹250/kg",
+        "Final Price": "₹37.5  150 g",
         "Quantity": "150 g"
     },
     {
         "Name": "Tomato - Cherry (Tamatar)",
-        "Standard Price (MRP)": "\u20b982.5",
-        "Selling Price": "\u20b972.5/Pack",
-        "Final Price": "\u20b972.5\u00a0\u00a0200 g",
+        "Standard Price (MRP)": "₹82.5",
+        "Selling Price": "₹72.5/Pack",
+        "Final Price": "₹72.5  200 g",
         "Quantity": "200 g"
     },
     {
-        "Name": "Chinese Cabbage",
-        "Standard Price (MRP)": "\u20b9254.5",
-        "Selling Price": "\u20b9239.5/pc",
-        "Final Price": "\u20b9239.5\u00a0\u00a01.5 kg",
-        "Quantity": "1.5 kg"
-    },
-    {
         "Name": "Hydroponic Red and Yellow Capsicum",
-        "Standard Price (MRP)": "\u20b9602",
-        "Selling Price": "\u20b9542/kg",
-        "Final Price": "\u20b9135.5\u00a0\u00a0250 g",
-        "Quantity": "250 g"
-    },
-    {
-        "Name": "Leek",
-        "Standard Price (MRP)": "\u20b9430",
-        "Selling Price": "\u20b9363.3/kg",
-        "Final Price": "\u20b954.5\u00a0\u00a0150 g",
-        "Quantity": "150 g"
+        "Standard Price (MRP)": "₹602",
+        "Selling Price": "₹542/kg",
+        "Final Price": "₹135.5  1 Pack",
+        "Quantity": "1 Pack"
     },
     {
         "Name": "Lemon Grass",
-        "Standard Price (MRP)": "\u20b9304.2",
-        "Selling Price": "\u20b9220.8/kg",
-        "Final Price": "\u20b926.5\u00a0\u00a0120 g",
+        "Standard Price (MRP)": "₹312.5",
+        "Selling Price": "₹229.2/kg",
+        "Final Price": "₹27.5  120 g",
         "Quantity": "120 g"
     },
     {
         "Name": "Lettuce - Green",
-        "Standard Price (MRP)": "\u20b9630",
-        "Selling Price": "\u20b9570/kg",
-        "Final Price": "\u20b9142.5\u00a0\u00a0250 g",
+        "Standard Price (MRP)": "₹630",
+        "Selling Price": "₹570/kg",
+        "Final Price": "₹142.5  250 g",
         "Quantity": "250 g"
     },
     {
         "Name": "Lettuce - Iceberg",
-        "Standard Price (MRP)": "\u20b9548.7",
-        "Selling Price": "\u20b9498.7/kg",
-        "Final Price": "\u20b9149.6\u00a0\u00a0300 g",
+        "Standard Price (MRP)": "₹582",
+        "Selling Price": "₹532/kg",
+        "Final Price": "₹159.6  300 g",
         "Quantity": "300 g"
     },
     {
         "Name": "Mustard Microgreens",
-        "Standard Price (MRP)": "\u20b9124.4",
-        "Selling Price": "\u20b9109.4/Pack",
-        "Final Price": "\u20b9109.4\u00a0\u00a0200 g",
+        "Standard Price (MRP)": "₹124.4",
+        "Selling Price": "₹109.4/Pack",
+        "Final Price": "₹109.4  200 g",
         "Quantity": "200 g"
-    },
-    {
-        "Name": "Organic Chilli - Hybrid (Mirch)",
-        "Standard Price (MRP)": "\u20b9275",
-        "Selling Price": "\u20b9225/kg",
-        "Final Price": "\u20b922.5\u00a0\u00a0100 g",
-        "Quantity": "100 g"
-    },
-    {
-        "Name": "Organic Cucumber - Seedless (Kheera)",
-        "Standard Price (MRP)": "\u20b9127",
-        "Selling Price": "\u20b9107/kg",
-        "Final Price": "\u20b953.5\u00a0\u00a0500 g",
-        "Quantity": "500 g"
-    },
-    {
-        "Name": "Organic Cucumber - Hybrid (Kheera)",
-        "Standard Price (MRP)": "\u20b985.8",
-        "Selling Price": "\u20b969.2/kg",
-        "Final Price": "\u20b941.5\u00a0\u00a0600 g",
-        "Quantity": "600 g"
     },
     {
         "Name": "Organic Garlic (Lehsun)",
-        "Standard Price (MRP)": "\u20b9705",
-        "Selling Price": "\u20b9605/kg",
-        "Final Price": "\u20b960.5\u00a0\u00a0100 g",
+        "Standard Price (MRP)": "₹705",
+        "Selling Price": "₹605/kg",
+        "Final Price": "₹60.5  100 g",
         "Quantity": "100 g"
+    },
+    {
+        "Name": "Organic Ginger (Adrak)",
+        "Standard Price (MRP)": "₹296.7",
+        "Selling Price": "₹190/kg",
+        "Final Price": "₹28.5  150 g",
+        "Quantity": "150 g"
     },
     {
         "Name": "Hydroponic Red Cherry Tomato",
-        "Standard Price (MRP)": "\u20b977.4",
-        "Selling Price": "\u20b967.4/Pack",
-        "Final Price": "\u20b967.4\u00a0\u00a0100 g",
-        "Quantity": "100 g"
+        "Standard Price (MRP)": "₹77.4",
+        "Selling Price": "₹67.4/Pack",
+        "Final Price": "₹67.4  1 Pack",
+        "Quantity": "1 Pack"
     },
     {
         "Name": "Sweet Corn - Pellets",
-        "Standard Price (MRP)": "\u20b9257.5",
-        "Selling Price": "\u20b9207.5/kg",
-        "Final Price": "\u20b941.5\u00a0\u00a0200 g",
+        "Standard Price (MRP)": "₹257.5",
+        "Selling Price": "₹207.5/kg",
+        "Final Price": "₹41.5  200 g",
         "Quantity": "200 g"
     },
     {
+        "Name": "Water Chestnut (Singhara)",
+        "Standard Price (MRP)": "₹99",
+        "Selling Price": "₹79/kg",
+        "Final Price": "₹39.5  500 g",
+        "Quantity": "500 g"
+    },
+    {
         "Name": "Radish Microgreens",
-        "Standard Price (MRP)": "\u20b9124.4",
-        "Selling Price": "\u20b9109.4/Pack",
-        "Final Price": "\u20b9109.4\u00a0\u00a0250 g",
+        "Standard Price (MRP)": "₹124.4",
+        "Selling Price": "₹109.4/Pack",
+        "Final Price": "₹109.4  250 g",
         "Quantity": "250 g"
     },
     {
         "Name": "Ready to Eat Salad",
-        "Standard Price (MRP)": "\u20b9134.5",
-        "Selling Price": "\u20b9119.5/Pack",
-        "Final Price": "\u20b9119.5\u00a0\u00a0100 g",
+        "Standard Price (MRP)": "₹134.5",
+        "Selling Price": "₹119.5/Pack",
+        "Final Price": "₹119.5  100 g",
         "Quantity": "100 g"
     },
     {
         "Name": "Zucchini - Green",
-        "Standard Price (MRP)": "\u20b9369.2",
-        "Selling Price": "\u20b9350.8/kg",
-        "Final Price": "\u20b9210.5\u00a0\u00a0600 g",
+        "Standard Price (MRP)": "₹325.8",
+        "Selling Price": "₹300.8/kg",
+        "Final Price": "₹180.5  600 g",
         "Quantity": "600 g"
     },
     {
         "Name": "Zucchini - Yellow",
-        "Standard Price (MRP)": "\u20b9382.7",
-        "Selling Price": "\u20b9350/kg",
-        "Final Price": "\u20b9192.5\u00a0\u00a0550 g",
+        "Standard Price (MRP)": "₹337.3",
+        "Selling Price": "₹310/kg",
+        "Final Price": "₹170.5  550 g",
         "Quantity": "550 g"
     },
     {
-        "Name": "Thai Ginger (Adrak)",
-        "Standard Price (MRP)": "\u20b9713.3",
-        "Selling Price": "\u20b9630/kg",
-        "Final Price": "\u20b975.6\u00a0\u00a0120 g",
-        "Quantity": "120 g"
-    },
-    {
         "Name": "Cut Beetroot Julienne (Thin Stripes)",
-        "Standard Price (MRP)": "\u20b948.5",
-        "Selling Price": "\u20b938.5/Pack",
-        "Final Price": "\u20b938.5\u00a0\u00a0250 g",
-        "Quantity": "250 g"
+        "Standard Price (MRP)": "₹48.5",
+        "Selling Price": "₹38.5/Pack",
+        "Final Price": "₹38.5  1 Pack",
+        "Quantity": "1 Pack"
     },
     {
         "Name": "Cut Carrot - Julienne (Thin Stripes)",
-        "Standard Price (MRP)": "\u20b959.4",
-        "Selling Price": "\u20b949.4/Pack",
-        "Final Price": "\u20b949.4\u00a0\u00a0250 g",
-        "Quantity": "250 g"
+        "Standard Price (MRP)": "₹59.4",
+        "Selling Price": "₹49.4/Pack",
+        "Final Price": "₹49.4  1 Pack",
+        "Quantity": "1 Pack"
     },
     {
         "Name": "Cut Drumstick (Moringa)",
-        "Standard Price (MRP)": "\u20b980.4",
-        "Selling Price": "\u20b970.4/Pack",
-        "Final Price": "\u20b970.4\u00a0\u00a0150 g",
-        "Quantity": "150 g"
+        "Standard Price (MRP)": "₹80.4",
+        "Selling Price": "₹70.4/Pack",
+        "Final Price": "₹70.4  1 Pack",
+        "Quantity": "1 Pack"
     },
     {
         "Name": "Cut Pulao Mix Vegetables",
-        "Standard Price (MRP)": "\u20b992.4",
-        "Selling Price": "\u20b982.4/Pack",
-        "Final Price": "\u20b982.4\u00a0\u00a0250 g",
-        "Quantity": "250 g"
+        "Standard Price (MRP)": "₹92.4",
+        "Selling Price": "₹82.4/Pack",
+        "Final Price": "₹82.4  1 Pack",
+        "Quantity": "1 Pack"
     },
     {
         "Name": "Cut Pumpkin (Kaddu)",
-        "Standard Price (MRP)": "\u20b956.4",
-        "Selling Price": "\u20b946.4/Pack",
-        "Final Price": "\u20b946.4\u00a0\u00a0250 g",
-        "Quantity": "250 g"
+        "Standard Price (MRP)": "₹56.4",
+        "Selling Price": "₹46.4/Pack",
+        "Final Price": "₹46.4  1 Pack",
+        "Quantity": "1 Pack"
     },
     {
         "Name": "Hydroponic Arugula (Gargeer)",
-        "Standard Price (MRP)": "\u20b977.5",
-        "Selling Price": "\u20b967.5/Pack",
-        "Final Price": "\u20b967.5\u00a0\u00a050 g",
-        "Quantity": "50 g"
+        "Standard Price (MRP)": "₹77.5",
+        "Selling Price": "₹67.5/Pack",
+        "Final Price": "₹67.5  1 Pack",
+        "Quantity": "1 Pack"
     },
     {
         "Name": "Hydroponic Baby Corn",
-        "Standard Price (MRP)": "\u20b967.4",
-        "Selling Price": "\u20b957.4/Pack",
-        "Final Price": "\u20b957.4\u00a0\u00a0200 g",
-        "Quantity": "200 g"
+        "Standard Price (MRP)": "₹67.4",
+        "Selling Price": "₹57.4/Pack",
+        "Final Price": "₹57.4  1 Pack",
+        "Quantity": "1 Pack"
     },
     {
         "Name": "Hydroponic Baby Spinach (Paalak)",
-        "Standard Price (MRP)": "\u20b996.4",
-        "Selling Price": "\u20b986.4/Pack",
-        "Final Price": "\u20b986.4\u00a0\u00a0100 g",
-        "Quantity": "100 g"
+        "Standard Price (MRP)": "₹96.4",
+        "Selling Price": "₹86.4/Pack",
+        "Final Price": "₹86.4  1 Pack",
+        "Quantity": "1 Pack"
     },
     {
         "Name": "Hydroponic Basil (Tulsi)",
-        "Standard Price (MRP)": "\u20b967.4",
-        "Selling Price": "\u20b957.4/Pack",
-        "Final Price": "\u20b957.4\u00a0\u00a050 g",
-        "Quantity": "50 g"
+        "Standard Price (MRP)": "₹67.4",
+        "Selling Price": "₹57.4/Pack",
+        "Final Price": "₹57.4  1 Pack",
+        "Quantity": "1 Pack"
     },
     {
         "Name": "Hydroponic Celery Herbs",
-        "Standard Price (MRP)": "\u20b960.4",
-        "Selling Price": "\u20b950.4/pack",
-        "Final Price": "\u20b950.4\u00a0\u00a050 g",
-        "Quantity": "50 g"
+        "Standard Price (MRP)": "₹58.4",
+        "Selling Price": "₹48.4/pack",
+        "Final Price": "₹48.4  1 Pack",
+        "Quantity": "1 Pack"
     },
     {
         "Name": "Hydroponic Leafy Salad Mix",
-        "Standard Price (MRP)": "\u20b9130.4",
-        "Selling Price": "\u20b9115.4/Pack",
-        "Final Price": "\u20b9115.4\u00a0\u00a0100 g",
-        "Quantity": "100 g"
+        "Standard Price (MRP)": "₹130.4",
+        "Selling Price": "₹115.4/Pack",
+        "Final Price": "₹115.4  1 Pack",
+        "Quantity": "1 Pack"
     },
     {
         "Name": "Hydroponic Lettuce - Butterhead",
-        "Standard Price (MRP)": "\u20b970.4",
-        "Selling Price": "\u20b960.4/Pack",
-        "Final Price": "\u20b960.4\u00a0\u00a0150 g",
-        "Quantity": "150 g"
+        "Standard Price (MRP)": "₹67.4",
+        "Selling Price": "₹57.4/Pack",
+        "Final Price": "₹57.4  1 Pack",
+        "Quantity": "1 Pack"
     },
     {
         "Name": "Hydroponic Lettuce - Green",
-        "Standard Price (MRP)": "\u20b967.4",
-        "Selling Price": "\u20b957.4/Pack",
-        "Final Price": "\u20b957.4\u00a0\u00a0150 g",
-        "Quantity": "150 g"
+        "Standard Price (MRP)": "₹67.4",
+        "Selling Price": "₹57.4/Pack",
+        "Final Price": "₹57.4  1 Pack",
+        "Quantity": "1 Pack"
     },
     {
         "Name": "Hydroponic Lettuce - Mix Herbs",
-        "Standard Price (MRP)": "\u20b9130.4",
-        "Selling Price": "\u20b9115.4/Pack",
-        "Final Price": "\u20b9115.4\u00a0\u00a0150 g",
-        "Quantity": "150 g"
-    },
-    {
-        "Name": "Thyme",
-        "Standard Price (MRP)": "\u20b985.5",
-        "Selling Price": "\u20b975.5/Pack",
-        "Final Price": "\u20b975.5\u00a0\u00a050 g",
-        "Quantity": "50 g"
+        "Standard Price (MRP)": "₹130.4",
+        "Selling Price": "₹115.4/Pack",
+        "Final Price": "₹115.4  1 Pack",
+        "Quantity": "1 Pack"
     },
     {
         "Name": "Banana Leaf",
-        "Standard Price (MRP)": "\u20b9109.5",
-        "Selling Price": "\u20b999.5/Pack",
-        "Final Price": "\u20b999.5\u00a0\u00a05 pcs",
+        "Standard Price (MRP)": "₹100.5",
+        "Selling Price": "₹90.5/Pack",
+        "Final Price": "₹90.5  5 pcs",
         "Quantity": "5 pcs"
     },
     {
         "Name": "Chilli - Hybrid (Hari Mirch)",
-        "Standard Price (MRP)": "\u20b9195",
-        "Selling Price": "\u20b9145/kg",
-        "Final Price": "\u20b914.5\u00a0\u00a0100 g",
+        "Standard Price (MRP)": "₹195",
+        "Selling Price": "₹145/kg",
+        "Final Price": "₹14.5  100 g",
         "Quantity": "100 g"
     },
     {
         "Name": "Tadaa Sweet Boiled Corn - Pani Puri",
         "Standard Price (MRP)": "N/A",
         "Selling Price": "N/A",
-        "Final Price": "\u20b969\u00a0\u00a0225 g",
+        "Final Price": "₹69  225 g",
         "Quantity": "225 g"
     },
     {
         "Name": "Beetroot - Packed (100% Safe)",
-        "Standard Price (MRP)": "\u20b935.2",
-        "Selling Price": "\u20b925.2/Pack",
-        "Final Price": "\u20b925.2\u00a0\u00a0500 g",
+        "Standard Price (MRP)": "₹39.2",
+        "Selling Price": "₹29.2/Pack",
+        "Final Price": "₹29.2  500 g",
         "Quantity": "500 g"
     },
     {
-        "Name": "Carrot - Orange (Gajar) - 100% Safe",
-        "Standard Price (MRP)": "\u20b952.5",
-        "Selling Price": "\u20b942.5/Pack",
-        "Final Price": "\u20b942.5\u00a0\u00a0500 g",
+        "Name": "Carrot - Orange (Gajar)",
+        "Standard Price (MRP)": "₹52.5",
+        "Selling Price": "₹42.5/Pack",
+        "Final Price": "₹42.5  500 g",
         "Quantity": "500 g"
     },
     {
         "Name": "Flax Seeds Microgreens",
         "Standard Price (MRP)": "N/A",
-        "Selling Price": "\u20b9109.4/Pack",
-        "Final Price": "\u20b9109.4\u00a0\u00a0250 g",
+        "Selling Price": "₹109.4/Pack",
+        "Final Price": "₹109.4  250 g",
         "Quantity": "250 g"
     },
     {
         "Name": "Green Gram Microgreens",
         "Standard Price (MRP)": "N/A",
-        "Selling Price": "\u20b9109.4/Pack",
-        "Final Price": "\u20b9109.4\u00a0\u00a0200g - 250g",
+        "Selling Price": "₹109.4/Pack",
+        "Final Price": "₹109.4  200g - 250g",
         "Quantity": "200g - 250g"
     },
     {
         "Name": "Hydroponic Lettuce Lolo Rosso",
         "Standard Price (MRP)": "N/A",
-        "Selling Price": "\u20b982.5/pack",
-        "Final Price": "\u20b982.5\u00a0\u00a0150 g",
-        "Quantity": "150 g"
+        "Selling Price": "₹82.5/pack",
+        "Final Price": "₹82.5  1 Pack",
+        "Quantity": "1 Pack"
     },
     {
-        "Name": "Parwal - Desi",
-        "Standard Price (MRP)": "\u20b9120.4",
-        "Selling Price": "\u20b9100.4/kg",
-        "Final Price": "\u20b950.2\u00a0\u00a0\u00a0 500 g",
+        "Name": "Tadaa Sweetcorn Marinated Cob Smoky BBQ (Best Before - 31st Oct 2024)",
+        "Standard Price (MRP)": "N/A",
+        "Selling Price": "N/A",
+        "Final Price": "₹129  2 pcs",
+        "Quantity": "2 pcs"
+    },
+    {
+        "Name": "Tadaa Sweetcorn Marinated Cob Sweet Chilli (Best Before - 31st Oct 2024)",
+        "Standard Price (MRP)": "N/A",
+        "Selling Price": "N/A",
+        "Final Price": "₹129  2 pcs",
+        "Quantity": "2 pcs"
+    },
+    {
+        "Name": "Coriander - With Roots (Hara Dhaniya)",
+        "Standard Price (MRP)": "₹40.2",
+        "Selling Price": "₹30.2/Pack",
+        "Final Price": "₹30.2  1 Pack",
+        "Quantity": "1 Pack"
+    },
+    {
+        "Name": "Potato - Carisma (Aloo) - Lower Glycemix Index",
+        "Standard Price (MRP)": "₹64.5",
+        "Selling Price": "₹54.5/Pack",
+        "Final Price": "₹54.5  1 kg",
+        "Quantity": "1 kg"
+    },
+    {
+        "Name": "Tinda (Indian Squash)",
+        "Standard Price (MRP)": "₹148.4",
+        "Selling Price": "₹128.4/kg",
+        "Final Price": "₹64.2  500 g",
         "Quantity": "500 g"
     },
     {
-        "Name": "Tadaa Sweetcorn Marinated Cob Italian Herbs",
-        "Standard Price (MRP)": "N/A",
-        "Selling Price": "N/A",
-        "Final Price": "\u20b9129\u00a0\u00a02 pcs",
-        "Quantity": "2 pcs"
+        "Name": "Garlic (Lehsun)",
+        "Standard Price (MRP)": "₹494.7",
+        "Selling Price": "₹428/kg",
+        "Final Price": "₹64.2  150 g",
+        "Quantity": "150 g"
     },
     {
-        "Name": "Tadaa Sweetcorn Marinated Cob Mexican Chipotle",
-        "Standard Price (MRP)": "N/A",
-        "Selling Price": "N/A",
-        "Final Price": "\u20b9129\u00a0\u00a02 pcs",
-        "Quantity": "2 pcs"
+        "Name": "Carrot - Orange (Gajar)",
+        "Standard Price (MRP)": "₹56.5",
+        "Selling Price": "₹46.5/Pack",
+        "Final Price": "₹46.5  500 g",
+        "Quantity": "500 g"
     },
     {
-        "Name": "Tadaa Sweetcorn Marinated Cob Sweet Chilli",
-        "Standard Price (MRP)": "N/A",
-        "Selling Price": "N/A",
-        "Final Price": "\u20b9129\u00a0\u00a02 pcs",
-        "Quantity": "2 pcs"
+        "Name": "Capsicum - Green (Shimla Mirch)",
+        "Standard Price (MRP)": "₹171.7",
+        "Selling Price": "₹150.3/kg",
+        "Final Price": "₹105.2  700 g",
+        "Quantity": "700 g"
+    },
+    {
+        "Name": "Bhindi (Okra)",
+        "Standard Price (MRP)": "₹35.5",
+        "Selling Price": "₹25.5/Pack",
+        "Final Price": "₹25.5  300 g",
+        "Quantity": "300 g"
+    },
+    {
+        "Name": "Bhindi (Okra)",
+        "Standard Price (MRP)": "₹98.4",
+        "Selling Price": "₹78.4/kg",
+        "Final Price": "₹39.2  500 g",
+        "Quantity": "500 g"
+    },
+    {
+        "Name": "Bottle Gourd - Long (Lauki)",
+        "Standard Price (MRP)": "₹70.3",
+        "Selling Price": "₹56/kg",
+        "Final Price": "₹39.2  700 g",
+        "Quantity": "700 g"
+    },
+    {
+        "Name": "Bitter Gourd (Karela) - 100% Safe",
+        "Standard Price (MRP)": "₹131.7",
+        "Selling Price": "₹98.3/kg",
+        "Final Price": "₹29.5  300 g",
+        "Quantity": "300 g"
+    },
+    {
+        "Name": "Bitter Gourd (Karela)",
+        "Standard Price (MRP)": "₹90.4",
+        "Selling Price": "₹70.4/kg",
+        "Final Price": "₹35.2  500 g",
+        "Quantity": "500 g"
+    },
+    {
+        "Name": "Bitter Gourd (Karela)",
+        "Standard Price (MRP)": "₹118.3",
+        "Selling Price": "₹85/kg",
+        "Final Price": "₹25.5  300 g",
+        "Quantity": "300 g"
+    },
+    {
+        "Name": "Bitter Gourd (Karela) - 100% Safe",
+        "Standard Price (MRP)": "₹98.4",
+        "Selling Price": "₹78.4/kg",
+        "Final Price": "₹39.2  500 g",
+        "Quantity": "500 g"
+    },
+    {
+        "Name": "Pumpkin - Green (Medium Sitafal) - 100% Safe",
+        "Standard Price (MRP)": "₹51.8",
+        "Selling Price": "₹46.8/kg",
+        "Final Price": "₹93.5  2 kg",
+        "Quantity": "2 kg"
+    },
+    {
+        "Name": "Capsicum - Green (Shimla Mirch) - 100% Safe",
+        "Standard Price (MRP)": "₹180.5",
+        "Selling Price": "₹155.5/kg",
+        "Final Price": "₹62.2  400 g",
+        "Quantity": "400 g"
+    },
+    {
+        "Name": "Capsicum - Green (Shimla Mirch) - 100% Safe",
+        "Standard Price (MRP)": "₹177.4",
+        "Selling Price": "₹156/kg",
+        "Final Price": "₹109.2  700 g",
+        "Quantity": "700 g"
+    },
+    {
+        "Name": "Chilli - Hybrid (Hari Mirch)",
+        "Standard Price (MRP)": "₹235",
+        "Selling Price": "₹185/kg",
+        "Final Price": "₹18.5  100 g",
+        "Quantity": "100 g"
+    },
+    {
+        "Name": "Capsicum - Green A+ (Shimla Mirch)",
+        "Standard Price (MRP)": "₹184.4",
+        "Selling Price": "₹164.4/kg",
+        "Final Price": "₹82.2  500 g",
+        "Quantity": "500 g"
+    },
+    {
+        "Name": "Brinjal - Round (Baingan)",
+        "Standard Price (MRP)": "₹93.7",
+        "Selling Price": "₹77/kg",
+        "Final Price": "₹46.2  600 g",
+        "Quantity": "600 g"
+    },
+    {
+        "Name": "Organic Tomato (Tamatar)",
+        "Standard Price (MRP)": "₹165.6",
+        "Selling Price": "₹143.3/kg",
+        "Final Price": "₹64.5  450 g",
+        "Quantity": "450 g"
+    },
+    {
+        "Name": "Organic Pumpkin (Sitafal)",
+        "Standard Price (MRP)": "₹67",
+        "Selling Price": "₹60.3/kg",
+        "Final Price": "₹90.5  1kg - 1.5kg",
+        "Quantity": "1kg - 1.5kg"
+    },
+    {
+        "Name": "Sprouts - Kulthi",
+        "Standard Price (MRP)": "₹38.4",
+        "Selling Price": "₹28.4/Pack",
+        "Final Price": "₹28.4  100 g",
+        "Quantity": "100 g"
+    },
+    {
+        "Name": "Pumpkin - Green (Medium Sitafal)",
+        "Standard Price (MRP)": "₹37",
+        "Selling Price": "₹30.3/kg",
+        "Final Price": "₹45.5  1.5 kg",
+        "Quantity": "1.5 kg"
+    },
+    {
+        "Name": "Hydroponic Capsicum - Green (Shimla Mirch)",
+        "Standard Price (MRP)": "₹342",
+        "Selling Price": "₹302/kg",
+        "Final Price": "₹75.5  1 Pack",
+        "Quantity": "1 Pack"
+    },
+    {
+        "Name": "Organic Beetroot (Chukandar)",
+        "Standard Price (MRP)": "₹97",
+        "Selling Price": "₹77/kg",
+        "Final Price": "₹38.5  500 g",
+        "Quantity": "500 g"
+    },
+    {
+        "Name": "Organic Bitter Gourd (Karela)",
+        "Standard Price (MRP)": "₹131.2",
+        "Selling Price": "₹106.2/kg",
+        "Final Price": "₹42.5  400 g",
+        "Quantity": "400 g"
+    },
+    {
+        "Name": "Garlic (Lehsun)",
+        "Standard Price (MRP)": "₹464.7",
+        "Selling Price": "₹414.7/kg",
+        "Final Price": "₹124.4  300 g",
+        "Quantity": "300 g"
     },
     {
         "Name": "Super Sweetcorn - Kernels (Pack of 2 - 250g Each)",
-        "Standard Price (MRP)": "\u20b9205",
-        "Selling Price": "\u20b9180/Pack",
-        "Final Price": "\u20b9180\u00a0\u00a0500 g",
+        "Standard Price (MRP)": "₹205",
+        "Selling Price": "₹180/Pack",
+        "Final Price": "₹180  500 g",
         "Quantity": "500 g"
     },
     {
         "Name": "Super Sweetcorn Kernels - Chat Masala (Pack of 2 - 145g Each)",
-        "Standard Price (MRP)": "\u20b970",
-        "Selling Price": "\u20b960/Pack",
-        "Final Price": "\u20b960\u00a0\u00a0290 g",
+        "Standard Price (MRP)": "₹70",
+        "Selling Price": "₹60/Pack",
+        "Final Price": "₹60  290 g",
         "Quantity": "290 g"
     },
     {
-        "Name": "Organic Ginger (Adrak)",
-        "Standard Price (MRP)": "\u20b9296.7",
-        "Selling Price": "\u20b9190/kg",
-        "Final Price": "\u20b928.5\u00a0\u00a0150 g",
+        "Name": "Leek",
+        "Standard Price (MRP)": "₹456.7",
+        "Selling Price": "₹390/kg",
+        "Final Price": "₹58.5  150 g",
         "Quantity": "150 g"
     },
     {
-        "Name": "Parsley",
-        "Standard Price (MRP)": "\u20b9755",
-        "Selling Price": "\u20b9655/kg",
-        "Final Price": "\u20b965.5\u00a0\u00a0100 g",
+        "Name": "Organic Chilli - Hybrid (Mirch)",
+        "Standard Price (MRP)": "₹325",
+        "Selling Price": "₹225/kg",
+        "Final Price": "₹22.5  100 g",
         "Quantity": "100 g"
     },
     {
-        "Name": "Banana - Raw",
-        "Standard Price (MRP)": "\u20b965",
-        "Selling Price": "\u20b950.7/kg",
-        "Final Price": "\u20b935.5\u00a0\u00a0700 g",
-        "Quantity": "700 g"
+        "Name": "Organic Cucumber - Seedless (Kheera)",
+        "Standard Price (MRP)": "₹113",
+        "Selling Price": "₹93/kg",
+        "Final Price": "₹46.5  500 g",
+        "Quantity": "500 g"
+    },
+    {
+        "Name": "Organic Cucumber - Hybrid (Kheera)",
+        "Standard Price (MRP)": "₹92.5",
+        "Selling Price": "₹75.8/kg",
+        "Final Price": "₹45.5  600 g",
+        "Quantity": "600 g"
+    },
+    {
+        "Name": "Thai Ginger (Adrak)",
+        "Standard Price (MRP)": "₹713.3",
+        "Selling Price": "₹630/kg",
+        "Final Price": "₹75.6  120 g",
+        "Quantity": "120 g"
+    },
+    {
+        "Name": "Thyme",
+        "Standard Price (MRP)": "₹85.5",
+        "Selling Price": "₹75.5/Pack",
+        "Final Price": "₹75.5  50 g",
+        "Quantity": "50 g"
     },
     {
         "Name": "Tadaa Sweet Boiled Corn - Peri Peri",
         "Standard Price (MRP)": "N/A",
         "Selling Price": "N/A",
-        "Final Price": "\u20b969\u00a0\u00a0225 g",
+        "Final Price": "₹69  225 g",
         "Quantity": "225 g"
     },
     {
-        "Name": "Tadaa Sweetcorn Marinated Cob Smoky BBQ",
+        "Name": "Tadaa Sweetcorn Marinated Cob Italian Herbs (Best Before - 31st Oct 2024)",
         "Standard Price (MRP)": "N/A",
         "Selling Price": "N/A",
-        "Final Price": "\u20b9129\u00a0\u00a02 pcs",
+        "Final Price": "₹129  2 pcs",
+        "Quantity": "2 pcs"
+    },
+    {
+        "Name": "Tadaa Sweetcorn Marinated Cob Mexican Chipotle (Best Before - 31st Oct 2024)",
+        "Standard Price (MRP)": "N/A",
+        "Selling Price": "N/A",
+        "Final Price": "₹129  2 pcs",
         "Quantity": "2 pcs"
     }
 ]
